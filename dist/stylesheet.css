@@ -1,4 +1,8 @@
-div {
-    padding-: 50px;
+body {
+    background-image: url("pic/mountains.jpg");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
 }
-
+div {
+    color: ghostwhite;
+}
